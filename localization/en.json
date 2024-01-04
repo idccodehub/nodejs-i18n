@@ -1,0 +1,5 @@
+{
+    "welcome": "Welcome to the Node.js and EJS Localization Example!",
+    "greeting": "Hello, {{name}}!"
+  }
+  

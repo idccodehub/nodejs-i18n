@@ -1,0 +1,17 @@
+{
+  "name": "hello-video-assessment-app",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "app.js",
+  "scripts": {
+    "start": "forever start app.js",
+    "stop": "forever stopall"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "i18n": "^0.15.1"
+  }
+}
